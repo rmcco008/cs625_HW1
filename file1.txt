@@ -1,1 +1,2 @@
 This is file 1 for the GitHub repository creation included in Homework 1.
+I created file 2 immediately after creating file 1.
